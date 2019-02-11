@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Timeline
+description: Want to know how I grow up?
 nav-menu: true
 ---
 <section id="about">
