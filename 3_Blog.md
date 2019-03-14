@@ -2,7 +2,7 @@
 title: Blog
 layout: blog
 description: 'Lets see whats my creaters have to say?'
-image: assets/images/blog.jpeg
+image: assets/images/blog.png
 nav-menu: true
 ---
 
