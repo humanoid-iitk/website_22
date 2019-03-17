@@ -15,7 +15,8 @@ nav-menu: true
 						<header class="major">
 							<h3>{{row.title}}</h3>
 						</header>
-						<p>{{site.description}}</p>
+						<p>{{row.description}}</p>
+						<a href="#" class="button special">Check out my channel</a>
 					</div>
 				</div>
 			</section>

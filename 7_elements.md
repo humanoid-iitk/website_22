@@ -83,7 +83,9 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li>Etiam vel lorem sed viverra.</li>
 			<li>Felis dolore viverra.</li>
 		</ol>
-		<h4>Icons</h4>
+		<h4>
+		-
+	s</h4>
 		<ul class="icons">
 			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>

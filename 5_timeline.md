@@ -1,7 +1,7 @@
 ---
 title: Know My Past Generations
-layout: page
-description: 'Lets see whats my creaters have to say?'
+layout: blog
+description: See my courageous and amazing evolution.
 image: assets/images/blog.jpeg
 nav-menu: true
 ---
