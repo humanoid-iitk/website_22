@@ -237,9 +237,9 @@ section h3.section-subheading {
     overflow: hidden;
     box-shadow: 0 0 3px rgba(100,100,100,1);
     position: relative;
-    height:auto;
-    width:auto;
-    
+    height:400px;
+    width:400px;
+
 }
 .boxes:before,
 .boxes:after{
@@ -297,7 +297,7 @@ section h3.section-subheading {
     margin: 0;
     list-style: none;
     text-align: center;
-    background: #004cbf;
+    background: #1459DA;
     border-radius: 0 0 0 10px;
     position: absolute;
     top: -100%;
@@ -317,13 +317,26 @@ section h3.section-subheading {
     line-height: 35px;
     border-radius: 10px;
     font-size: 18px;
-    color: #fff;
+	box-shadow: 0 0 0 2px #FFFFFF;
+    color: #ffffff;
     transition: all 0.3s ease 0s;
 }
 .boxes .icon li a:hover{
-    color: #fff;
-    box-shadow: 0 0 10px #000 inset,0 0 0 3px #fff;
+	color: #000000;
+    box-shadow: 0 0 10px #000000;
 }
 @media only screen and (max-width:990px){
     .box{ margin-bottom: 30px; }
+}
+
+
+.team-sec {
+  position: relative;
+  font-family: 'Love Ya Like A Sister', cursive;
+  line-height: 1;
+  font-weight: 500;
+  font-size: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align:center;
 }
