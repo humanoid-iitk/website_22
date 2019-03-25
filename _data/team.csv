@@ -1,10 +1,16 @@
-name,description,type,image,fblink,linkedlink,githublink,room_no,hall,phone_no,emailid
-Deepankur Kansal, Works on improving the computer vision of Automi,2,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,2,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,2,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,2,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,1,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,1,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,1,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,1,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
-Deepankur Kansal, Works on improving the computer vision of Automi,0,sq.jpg,#,#,#,C-210,Hall-5,9457509700,deepank@iitk.ac.in
+name,emailid,hall,room_no,phone_no,description,fb_link,linkd,git,type,image,Post
+Deepamkur Kansal,deepank@iitk.ac.in,Hall 5,C 210,9411445534,I work in Image Processing team which implements Computer vision techiques in the humaoid.,https://www.facebook.com/deepankur.kansal.5,,https://github.com/DeepankurK,2,sq.jpg,Team Member
+Madhur Deep Jain,mdjain@iitk.ac.in,Hall 5,F-109,8894051687,Working on servo control and ROS integration,https://facebook.com/madhurdeepjain,https://linkedin.com/in/madhurdeepjain,https://github.com/madhurdeepjain,1,sq.jpg,Tech Lead - Software
+Ratnangshu Das,rdas@iitk.ac.in,Hall 12,E312,8017610875,Simulation Team Head,https://www.facebook.com/ratnangshu.das,https://www.linkedin.com/in/ratnangshu-d-11955a107/,https://github.com/ratnangshu,1,sq.jpg,Tech-Lead
+Arunim Joarder,arunimj@iitk.ac.in,Hall 13,B202,9643837363,Software and ROS Subteam,,,,2,sq.jpg,Team Member
+Dhruvil,dhruvil@iitk.ac.in,Hall 13,B-103,7073682732,Presently working towards achieving dynamic simulation codes in bot through models.,https://www.facebook.com/dhruvil.sangani,,https://github.com/dhruvilsangani,2,sq.jpg,Team Member
+Himanshu Verma,vermahi@iitk.ac.in,Hall 12,C510,9588041654,Supervise and guide IP team and and IP related work in the team which involves using IP for motion planning.,https://m.facebook.com/profile.php?tsid=0.5837272489776864&source=result,https://www.linkedin.com/in/himanshu-verma-752565162,https://github.com/himanshu11235,1,sq.jpg,Tech lead IP
+Paras Mittal,parasm@iitk.ac.in,Hall 13,C306,9813513036,"We basically serve as the eyes for our humanoid.
+I am a part of the IP(Image Processing) team which is responsible for providing crucial info like required distances and angles to drive the bot to the optimum path.
+",,,www.github.com/prsmittal/,2,sq.jpg,Team Member
+Harsh Verma,verharsh@iitk.ac.in,Hall 12,C511,7269961514,Tech Lead Designing,https://www.facebook.com/verharsh,https://www.linkedin.com/in/harshiit-1308,https://www.github.com/harshver,1,sq.jpg,Tech Lead
+Shivam Tulsyan,shivtuls@iitk.ac.in,Hall 13,C-311,9407314740,Presently working on Dynamic Simulation,https://www.facebook.com/shivam.tulsyan.2009,https://www.linkedin.com/in/shivam-tulsyan-57a70a182/,https://github.com/shivamtulsyan,2,sq.jpg,Team Member
+Aditya Goyal,adityagl@iitk.ac.in,Hall 13,E 307,8728070756,Member of Designing and Manufacturing Subteam,https://www.facebook.com/aditya.goyal.50115161,https://www.linkedin.com/in/aditya-goyal-58691b166,https://github.com/adityagl,2,sq.jpg,Team Member
+Varchasv Shri,varchasv@iitk.ac.in,Hall 13,C-307,8586971320,"Working in team Simulation, humanoid. Currently working on matlab(to predict motion of walking and basic movements of automi using inverse kinematics) and gazebo(to set up environment for automi to simulate in true physical conditions).",https://m.facebook.com/varchasv.shri,https://in.linkedin.com/in/varchasv-shri-6759b8180,https://github.com/varchasvshri,2,sq.jpg,Team Member
+Prakash Choudhary,prkjat@iitk.ac.in,Hall 13,B-104,6377993633,Member of designing and manufacturing team,https://www.facebook.com/profile.php?id=100027160426571,,,2,sq.jpg,Team member
+Sahil,ksahil@iitk.ac.in,Hall 13,C 201,7027050659,My work is curious. I enjoy it.,Sahil Kulria,sahilkulria002@gmail.com,sahilkulria002@gmail.com,2,sq.jpg,Team member
