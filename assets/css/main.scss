@@ -1,5 +1,7 @@
 ---
----
+sitemap: 
+	exclude: yes 
+--- 
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -48,7 +50,7 @@
 				width: calc(100% - 3em);
 			}
 		}
-	}
+}
 
 // Base.
 
@@ -77,4 +79,4 @@
 	@import 'layout/contact';
 	@import 'layout/footer';
 	@import 'layout/wrapper';
-	@import 'layout/menu';
+@import 'layout/menu';

@@ -1,0 +1,1 @@
+(()=>{const n=window;n.Community={init:()=>{new window.SmoothScroll("[data-scroll]",{speed:600,easing:"easeInOutQuart",updateURL:!0,offset:function(){return window.innerWidth<768?80:0},popstate:!0});$$("body").addClass("page-loaded")}},$$.ready(()=>{n.Community.init()})})();
